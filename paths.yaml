@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/saharan/saharan-2025-1-27-10-19-25/:/
+ - /content/saharan/saharan-2025-1-27-10-19-25/metadata.json:/metadata.json
+ - /content/saharan/saharan-2025-1-27-10-19-25/redirects.json:/redirects.json
